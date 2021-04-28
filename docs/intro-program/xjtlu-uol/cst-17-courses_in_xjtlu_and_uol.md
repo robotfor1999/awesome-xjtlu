@@ -1,6 +1,6 @@
 # Courses Descriptions in Year 1
 
-**Linear Algebra**
+**Linear Algebra for year one**
 
 - Mathematical operations with matrices (addition, multiplication)
 - Matrix inverses and determinants
