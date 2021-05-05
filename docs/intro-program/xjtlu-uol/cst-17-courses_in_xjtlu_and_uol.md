@@ -108,7 +108,7 @@
 - Slew rate in operation amplifiers
 - Role and use of CAD tools such as SPICE in design process
 
-**Engineering Mathematics**
+**Engineering Mathematics **
 
 This course is about the mathematics that is most widely used in the mechanical engineering core subjects: An introduction to linear algebra and ordinary differential equations (ODEs), including general numerical approaches to solving systems of equations. Topics covered include linear systems of equations, existence and uniqueness of solutions, Gaussian elimination. Initial value problems, 1st and 2nd order systems, forward and backward Euler, and the Runge-Kutta method (RK4). The course also covers eigenproblems: eigenvalues and eigenvectors, including complex numbers, functions, vectors and matrices. MATLAB is used in this course.
 
