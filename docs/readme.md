@@ -1,3 +1,9 @@
+# 为方便合作，此Github仓库迁移至[awesome-xjtlu/wiki](https://github.com/awesome-xjtlu/wiki)
+# 新网页为[网站](https://awesome-xjtlu.github.io/wiki/#/)
+# 此仓库与网页暂停更新，如需提交PR请至[新仓库](https://github.com/awesome-xjtlu/wiki)
+
+
+
 ### 公告
 
 1. 寻找一起维护项目的同学，我们需要你（你将获得）：
