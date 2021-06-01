@@ -1,1 +1,0 @@
-# BSc Actuarial Science
